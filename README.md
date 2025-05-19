@@ -25,3 +25,9 @@ This is a lightweight example of real-world web scraping, showing how to:
 Install dependencies:
 ```bash
 pip install requests beautifulsoup4
+
+# 🔍 Sample Output
+Available MacBook Pro models:
+- Apple M4 chip with 10-core CPU and 10-core GPU — $1,599.00
+- Apple M3 Pro chip with 12-core CPU and 18-core GPU — $2,399.00
+
